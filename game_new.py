@@ -115,7 +115,6 @@ class Game:
         self.spawn_timer = 0
         self.spawn_interval = 90
         self.state = "wait"
-        self.state = "wait"
         reset_combo()
 
     def start_or_jump(self):
